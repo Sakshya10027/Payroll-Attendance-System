@@ -14,7 +14,7 @@ Java** course.
 Payroll mistakes are expensive and attendance records kept on paper or in
 scattered spreadsheets make those mistakes easy to make. This project
 models the whole loop as a small, testable Java application with no
-external dependencies — just the JDK standard library — so it can be
+external dependencies just the JDK standard library — so it can be
 compiled and run anywhere.
 
 Data is persisted to plain text files under `data/`, so nothing is lost
@@ -89,8 +89,8 @@ PayrollAttendanceSystem/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/PayrollAttendanceSystem.git
-cd PayrollAttendanceSystem
+git clone https://github.com/Sakshya10027/Payroll-Attendance-System.git
+cd Payroll-Attendance-System
 
 # 2. Compile
 find src -name "*.java" > sources.txt
