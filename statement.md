@@ -37,7 +37,7 @@ scope:
 Out of scope (explicitly not attempted, to keep the project focused): a
 graphical user interface, a networked/multi-user server, integration
 with a real relational database, tax-slab-based statutory deductions,
-and leave-balance accrual rules — all reasonable future enhancements but
+and leave-balance accrual rules all reasonable future enhancements but
 not required to demonstrate the core Java concepts this course covers.
 
 ## Target Users
