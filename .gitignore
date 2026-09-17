@@ -1,0 +1,16 @@
+# Compiled output
+out/
+*.class
+
+# Runtime data (created automatically when the app runs)
+data/
+logs/
+
+# Build helper files
+sources.txt
+
+# OS / editor files
+.DS_Store
+.idea/
+*.iml
+.vscode/
